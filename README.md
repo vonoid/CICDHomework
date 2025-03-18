@@ -49,10 +49,10 @@
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 3. В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![Задание 2pipeline](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/21.jpg)
-![Задание 2pipeline](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/22.jpg)
-![Задание 2pipeline](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/23.jpg)
-![Задание 2pipeline](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/24.jpg)
+![Задание 2pipeline](https://github.com/vonoid/CICD/blob/ee0833b6131215ba8c72317db6b665e4381035bf/21.jpg)
+![Задание 2pipeline](https://github.com/vonoid/CICD/blob/ee0833b6131215ba8c72317db6b665e4381035bf/22.jpg)
+![Задание 2pipeline](https://github.com/vonoid/CICD/blob/ee0833b6131215ba8c72317db6b665e4381035bf/23.jpg)
+![Задание 2pipeline](https://github.com/vonoid/CICD/blob/ee0833b6131215ba8c72317db6b665e4381035bf/24.jpg)
 
 ### Задание 3
 
