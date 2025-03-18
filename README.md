@@ -34,6 +34,9 @@
 
 
 ![Задание 1Freestyle Project](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/11.jpg)`
+![Задание 1Freestyle Project](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/12.jpg)`
+![Задание 1Freestyle Project](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/13.jpg)`
+![Задание 1Freestyle Project](https://github.com/vonoid/CICD/blob/dcd1f711bb0b3327fdba6c693989534e3963014a/14.jpg)`
 
 
 ---
